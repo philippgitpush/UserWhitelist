@@ -1,0 +1,6 @@
+name: UserWhitelist
+main: me.adeleine1412.Main
+author: adeleine1412
+version: 1.0
+commands:
+ userwhitelist:
