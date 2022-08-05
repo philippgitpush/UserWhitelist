@@ -4,4 +4,4 @@ Very simple Spigot plugin for user accessible whitelist. Requires Java 17, creat
 
 ## Usage
 
-- **/userwhitelist [username]** - add someone to the whitelsit
+- **/userwhitelist [username]** - add someone to the whitelist.
